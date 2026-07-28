@@ -1,7 +1,7 @@
 # =====================================================================
 # CHALLENGE ALURA: AGENTE INTELIGENTE FINTECH (BUGFIX DATA PARSING V3.8)
 # ARCHITECTURE: TRANSFORMERS + QWEN-0.5B + GRADIO (ZERO-API-KEY)
-# AUTHOR: Senior Software Engineer (10 YoE)
+# AUTHOR: Alumno - Oracle Next Education
 # =====================================================================
 
 # 1. INSTALACIÓN DE DEPENDENCIAS COMPATIBLES
