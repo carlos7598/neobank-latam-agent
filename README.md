@@ -40,9 +40,9 @@ El agente fue verificado con éxito utilizando la suite de casos de prueba oblig
 
 El sistema genera un túnel de comunicación seguro para permitir la interacción con el chatbot financiero desde internet.
 
-- **Enlace Público de la Aplicación:** [https://gradio.live](https://gradio.live) *(Nota: El enlace web temporal provisto por el servidor de Colab expira automáticamente tras concluir la sesión de cómputo).*
+- **Enlace Público de la Aplicación:** [https://gradio.live]([https://gradio.live](https://c5f087365d9e581eea.gradio.live/)) *(Nota: El enlace web temporal provisto por el servidor de Colab expira automáticamente tras concluir la sesión de cómputo).*
 - **Estado de la Infraestructura:** `Activo / Online`
 
 ### Interfaz Gráfica del Chatbot en Funcionamiento:
-![Evidencia del Chatbot](evidencia_deploy.png)
+![Evidencia del Chatbot](evidencia_deploy_1.png) y (evidencia_deploy_2.png)
 
