@@ -43,6 +43,8 @@ El sistema genera un túnel de comunicación seguro para permitir la interacció
 - **Enlace Público de la Aplicación:** [https://gradio.live]([https://gradio.live](https://c5f087365d9e581eea.gradio.live/)) *(Nota: El enlace web temporal provisto por el servidor de Colab expira automáticamente tras concluir la sesión de cómputo).*
 - **Estado de la Infraestructura:** `Activo / Online`
 
-### Interfaz Gráfica del Chatbot en Funcionamiento:
-![Evidencia del Chatbot](evidencia_deploy_1.png) y (evidencia_deploy_2.png)
+### Interfaz del Agente Inteligente en Funcionamiento:
+![Evidencia del Chatbot - Caso Inicial](evidencia_deploy_1.png)
+![Evidencia del Chatbot - Respuesta Exitosa](evidencia_deploy_2.png)
+
 
